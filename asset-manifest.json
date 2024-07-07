@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/spirit-quiz/static/css/main.f855e6bc.css",
-    "main.js": "/spirit-quiz/static/js/main.40c817ae.js",
+    "main.js": "/spirit-quiz/static/js/main.741acf1e.js",
     "static/js/453.0a9526d8.chunk.js": "/spirit-quiz/static/js/453.0a9526d8.chunk.js",
     "static/media/logo.svg": "/spirit-quiz/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/spirit-quiz/index.html",
     "main.f855e6bc.css.map": "/spirit-quiz/static/css/main.f855e6bc.css.map",
-    "main.40c817ae.js.map": "/spirit-quiz/static/js/main.40c817ae.js.map",
+    "main.741acf1e.js.map": "/spirit-quiz/static/js/main.741acf1e.js.map",
     "453.0a9526d8.chunk.js.map": "/spirit-quiz/static/js/453.0a9526d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.40c817ae.js"
+    "static/js/main.741acf1e.js"
   ]
 }
